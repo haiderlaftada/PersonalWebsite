@@ -1,4 +1,5 @@
 # Responsive personal website
+## [Watch it on Google](https://haiderlaftada.github.io/PersonalWebsite/)
 ## [Watch it on instagram](https://www.instagram.com/p/DMyuXnJIiZn/?img_index=1)
 ### personal website
 
